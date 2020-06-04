@@ -4,7 +4,7 @@ Test Flutter project
 
 ## Overview
 
-- touch anywhere to change background color (color is genereted randomly)
+- touch anywhere to change background color (color is generated randomly)
 
 - touch text "Hey there;)" to randomly change text color and size of the font
 
